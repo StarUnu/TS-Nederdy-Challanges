@@ -1,5 +1,4 @@
 const { processReadings, getTemperatureSummary } = require('../dist/app')
-
 const example = [
   {
     time: new Date('1/3/2021'),
